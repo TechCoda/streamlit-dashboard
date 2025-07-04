@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Build a Tip Calculator",
+    "description": "Use HTML/CSS/JS to build a simple tip calculator. Bonus: make it mobile-friendly.",
+    "track": "frontend",
+    "resource_link": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+  },
+  {
+    "title": "Fetch Jokes from API",
+    "description": "Create a joke app that fetches jokes using an API and displays them.",
+    "track": "fullstack",
+    "resource_link": "https://icanhazdadjoke.com/api"
+  },
+  {
+    "title": "Flexbox Blog Layout",
+    "description": "Design a basic blog layout using Flexbox only. Try to make it responsive.",
+    "track": "frontend",
+    "resource_link": ""
+  },
+  {
+    "title": "To-Do CLI App in Python",
+    "description": "Build a command-line to-do list using Python and file storage.",
+    "track": "backend",
+    "resource_link": ""
+  },
+  {
+    "title": "Personal Portfolio Page",
+    "description": "Create your own portfolio site with your name, projects, and contact info.",
+    "track": "frontend",
+    "resource_link": "https://www.freecodecamp.org/news/portfolio-website-guide/"
+  }
+]
