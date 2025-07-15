@@ -44,7 +44,7 @@ Perfect for students, developers, or anyone looking for a lightweight personal p
 
 ## Contributing
 
-We welcome contributions! To contribute:
+Contributions are welcome! To contribute:
 
 1. Fork the repo  
 2. Create a new branch (`git checkout -b feature-name`)  
