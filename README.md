@@ -17,7 +17,7 @@ A simple, user-friendly SaaS web app that helps users visualize progress, track 
 - 📦 Modular code organization with `pages/` and `utils/`
 - ⏱ Real-time Pomodoro timer using `st.session_state`
 - 🧠 User-focused UX: save/download features (JSON, .txt)
-- 🛠 Deployed with Streamlit Cloud
+- 🛠 Deployed live at: [https://app-dashboard-unx9hxl77266zmsmwzjajx.streamlit.app](https://app-dashboard-unx9hxl77266zmsmwzjajx.streamlit.app)
 
 
 ## Demo
