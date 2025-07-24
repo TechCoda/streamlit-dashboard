@@ -22,6 +22,7 @@ A simple, user-friendly SaaS web app that helps users visualize progress, track 
 
 ## Demo
 <img src="https://github.com/user-attachments/assets/412086a3-7e33-4b6f-a57c-4695e51e402c" alt="Screenshot of my Streamlit dashboard" width="600"/>
+
 *A lightweight dashboard for tracking goals, challenges, and productivity in real-time.*
 
 
