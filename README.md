@@ -10,7 +10,7 @@ A simple, user-friendly SaaS web app that helps users visualize progress, track 
 - 📁 Download progress or goals as text or JSON files
 - 🌐 Clean, minimal UI built for clarity and ease of navigation
 
-  ## Tech Stack & Skills Demonstrated
+## Tech Stack & Skills Demonstrated
 
 - 🐍 Python, Streamlit, Pandas
 - 💻 Frontend layout and responsive dashboard UI
@@ -32,21 +32,19 @@ A simple, user-friendly SaaS web app that helps users visualize progress, track 
 
 1. **Clone the repository:**
 
-```
+```bash
 git clone https://github.com/TechCoda/streamlit-dashboard.git
 cd streamlit-dashboard
-```
 
 2. **Install dependencies:**
 
-```
 pip install -r requirements.txt
-```
+
 
 3. **Run the app:**
 
 ```
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## Usage
