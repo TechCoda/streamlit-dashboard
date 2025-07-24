@@ -10,8 +10,20 @@ A simple, user-friendly SaaS web app that helps users visualize progress, track 
 - 📁 Download progress or goals as text or JSON files
 - 🌐 Clean, minimal UI built for clarity and ease of navigation
 
+  ## Tech Stack & Skills Demonstrated
+
+- 🐍 Python, Streamlit, Pandas
+- 💻 Frontend layout and responsive dashboard UI
+- 📦 Modular code organization with `pages/` and `utils/`
+- ⏱ Real-time Pomodoro timer using `st.session_state`
+- 🧠 User-focused UX: save/download features (JSON, .txt)
+- 🛠 Deployed with Streamlit Cloud (coming soon)
+
+
 ## Demo
 <img src="https://github.com/user-attachments/assets/412086a3-7e33-4b6f-a57c-4695e51e402c" alt="Screenshot of my Streamlit dashboard" width="600"/>
+*A lightweight dashboard for tracking goals, challenges, and productivity in real-time.*
+
 
 
 
@@ -45,7 +57,13 @@ Once the app is running in your browser:
 - Add tasks, goals, or progress updates.
 - Export your weekly progress or challenges using the download buttons.
 
-Perfect for students, developers, or anyone looking for a lightweight personal productivity dashboard.
+## Who This Is For
+
+This dashboard is ideal for:
+- 👩‍💻 New developers tracking coding challenges
+- 🎓 Students balancing school and tech goals
+- 🧘‍♀️ Anyone building focus and habit routines
+
 
 ## Contributing
 
