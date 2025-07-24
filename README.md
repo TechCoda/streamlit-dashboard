@@ -35,15 +35,17 @@ A simple, user-friendly SaaS web app that helps users visualize progress, track 
 ```bash
 git clone https://github.com/TechCoda/streamlit-dashboard.git
 cd streamlit-dashboard
+```
 
 2. **Install dependencies:**
 
+```bash
 pip install -r requirements.txt
-
+```
 
 3. **Run the app:**
 
-```
+```bash
 streamlit run main.py
 ```
 
