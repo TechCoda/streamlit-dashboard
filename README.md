@@ -10,6 +10,12 @@ A simple, user-friendly SaaS web app that helps users visualize progress, track 
 - 📁 Download progress or goals as text or JSON files
 - 🌐 Clean, minimal UI built for clarity and ease of navigation
 
+## Demo
+
+![Screenshot of my Streamlit dashboard](https://github.com/user-attachments/assets/412086a3-7e33-4b6f-a57c-4695e51e402c)
+
+
+
 ## Setup Instructions
 
 1. **Clone the repository:**
